@@ -1,1 +1,1 @@
-# arquitetura-e-concorr-ncia-
+# arquitetura-e-concorrencia
